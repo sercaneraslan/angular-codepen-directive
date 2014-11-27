@@ -1,3 +1,5 @@
+<img align="center" height="108" src="https://www.angularjs.org/img/AngularJS-large.png">
+
 angular-codepen-directive
 =========================
 
