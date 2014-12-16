@@ -25,23 +25,14 @@ Advanced Usage:
         cp-default-tab="your-default-tab"
 ></div>
 ```
-Documentation
-========================
-
+## Documentation
 Please read this <a href="http://blog.codepen.io/2013/07/23/the-new-embed-builder-customize-every-aspect/">article</a>.
 
-
-Contributing
-========================
-
+## Contributing
 Feel free to open an issue or send a pull request.
 
-License
-========================
-
+## License
 MIT License.
 
-Author
-========================
-
+## Author
 Copyright © 2014 Sercan Eraslan
