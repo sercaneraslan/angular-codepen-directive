@@ -2,7 +2,7 @@
 *
 * ng-codepen v0.0.1
 *
-* (c) 2013-2014 Sercan Eraslan http://sercaneraslan.com
+* (c) 2014-2015 Sercan Eraslan http://sercaneraslan.com
 * License: MIT
 *
 */
